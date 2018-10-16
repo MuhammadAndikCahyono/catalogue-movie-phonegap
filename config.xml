@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.stmikwp.katalogfilm" 
+    versionCode = "10"
+    version     = "1.0.0" >
+
+  <name>Calculator</name>
+
+  <description>
+      contoh aplikasi kalkulator.
+  </description>
+
+  <author href="https://nemuide.com" email="email@gmail.com">
+      Reza Maulana
+  </author>
+
+  <!--  untuk id, name, deskrpsi dan author silakan diisi propertis kalian sendiri -->
+
+</widget>
