@@ -5,14 +5,14 @@
     versionCode = "10"
     version     = "1.0.0" >
 
-  <name>Calculator</name>
+  <name>Pilem</name>
 
   <description>
-      contoh aplikasi kalkulator.
+      Aplikasi Katalog Film.
   </description>
 
-  <author href="https://nemuide.com" email="email@gmail.com">
-      Reza Maulana
+  <author href="https://dosenprogramming.com" email="dosenprogramming@gmail.com">
+      Mohammad Reza Maulana
   </author>
 
   <!--  untuk id, name, deskrpsi dan author silakan diisi propertis kalian sendiri -->
