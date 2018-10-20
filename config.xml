@@ -14,6 +14,8 @@
   <author href="https://dosenprogramming.com" email="dosenprogramming@gmail.com">
       Mohammad Reza Maulana
   </author>
+    
+  <icon src="icon.png" />
 
   <!--  untuk id, name, deskrpsi dan author silakan diisi propertis kalian sendiri -->
 
