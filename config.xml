@@ -16,6 +16,12 @@
   </author>
     
   <icon src="icon.png" />
+    
+  <plugin name="cordova-plugin-whitelist" version="1" />
+    
+  <access origin="*" />
+  <allow-intent href="https://*/*" />
+  <allow-navigation href="https://*/*" />
 
   <!--  untuk id, name, deskrpsi dan author silakan diisi propertis kalian sendiri -->
 
